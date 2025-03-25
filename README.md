@@ -17,3 +17,4 @@ You can use it you quickly save real-life chess games for later continuation, as
  
 2. Open app.ipynb - everything is in there.
 
+https://blog.roboflow.com/chess-boards/
